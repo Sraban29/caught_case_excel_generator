@@ -1,0 +1,217 @@
+{
+  "Maruti Suzuki": {
+    "Swift": [
+      "VXI 1.2L ISS 5MT",
+      "VXI (O) 1.2L ISS 5MT",
+      "VXI 1.2L ISS AT",
+      "VXI (O) 1.2L ISS AT",
+      "ZXI 1.2L ISS 5MT",
+      "ZXI 1.2L ISS AT",
+      "ZXI+ 1.2L ISS 5MT",
+      "ZXI+ 1.2L ISS 5MT Dual Tone",
+      "ZXI+ 1.2L ISS AT",
+      "ZXI+ 1.2L ISS AT Dual Tone"
+    ],
+    "Brezza": [
+      "Brezza Lxi",
+      "Brezza Lxi CNG",
+      "Brezza Vxi",
+      "Brezza Vxi CNG",
+      "Brezza Vxi AT",
+      "Brezza Zxi",
+      "Brezza Zxi DT",
+      "Brezza Zxi CNG",
+      "Brezza Zxi CNG DT",
+      "Brezza Zxi AT",
+      "Brezza Zxi Plus",
+      "Brezza Zxi AT DT",
+      "Brezza Zxi Plus DT",
+      "Brezza Zxi Plus AT",
+      "Brezza Zxi Plus AT DT"
+    ],
+    "FRONX": [
+      "1.2 L Sigma MT",
+      "1.2 L Delta MT",
+      "Sigma 1.2 L CNG MT",
+      "1.2 L Delta Plus MT",
+      "1.2 L Delta AMT",
+      "Delta Plus 1.2L (O) MT",
+      "1.2 L Delta Plus AMT",
+      "Delta 1.2 L CNG MT",
+      "Delta Plus 1.2L (O) AGS",
+      "1.0 L Turbo Smart Hybrid Delta Plus MT",
+      "1.0 L Turbo Smart Hybrid Zeta MT",
+      "1.0 L Turbo Smart Hybrid Alpha MT",
+      "1.0 L Turbo Smart Hybrid Zeta AT",
+      "1.0 L Turbo Smart Hybrid Alpha AT"
+    ],
+    "Ertiga": [
+      "LXI MT",
+      "VXI MT",
+      "VXI CNG",
+      "ZXI MT",
+      "VXI AT",
+      "ZXI Plus MT",
+      "ZXI CNG",
+      "ZXI AT",
+      "ZXI Plus AT"
+    ],
+    "Baleno": [
+      "Sigma",
+      "Delta",
+      "Delta AMT",
+      "Delta MT CNG",
+      "Zeta",
+      "Zeta AMT",
+      "Zeta MT CNG",
+      "Alpha",
+      "Alpha AMT"
+    ],
+    "Dzire":[
+      "1.2 Petrol LXI MT",
+      "1.2 Petrol VXI MT",
+      "1.2 Petrol VXI AMT",
+      "1.2 Petrol ZXI MT",
+      "VXI CNG",
+      "1.2 Petrol ZXI AMT",
+      "1.2 Petrol ZXI+ MT",
+      "ZXI CNG",
+      "1.2 Petrol ZXI+ AMT"
+    ],
+    "Celerio": [
+      "LXI Dream Edition",
+      "Lxi MT",
+      "Vxi MT",
+      "Zxi MT",
+      "Vxi AT",
+      "Zxi+ MT",
+      "Zxi AT",
+      "VXI CNG",
+      "Zxi+ AT"
+    ],
+    "Wagon R": [
+      "TOUR H3 MT",
+      "LXI MT",
+      "VXI MT",
+      "ZXI MT",
+      "TOUR H3 CNG",
+      "LXI S-CNG MT",
+      "VXI AGS",
+      "ZXI+ MT",
+      "ZXI AGS",
+      "1.2 L ZXI+ MT DT",
+      "VXI S-CNG MT",
+      "ZXI+ AGS",
+      "ZXI+ AGS Dual tone (Option)"
+    ],
+    "Alto K10": [
+      "STD MT",
+      "Tour H1",
+      "LXI MT",
+      "VXI+ Dream Edition",
+      "VXI",
+      "VXI+ MT",
+      "VXI AGS",
+      "Tour H1 CNG",
+      "LXI S-CNG",
+      "VXI-S CNG",
+      "VXI+ AGS"
+    ],
+    "Jimny": [
+      "Zeta MT",
+      "Alpha MT",
+      "Zeta AT",
+      "Alpha AT"      
+    ],
+    "Eeco": [
+      "5 STR STD",
+      "7 STR STD",
+      "5 STR AC",
+      "5 STR AC With CNG"
+    ],
+    "XL6": [
+      "Zeta MT",
+      "Zeta MT CNG",
+      "Alpha MT",
+      "Zeta AT",
+      "Alpha Plus MT",
+      "Alpha AT",
+      "Alpha Plus AT"      
+    ],
+    "Ignis": [
+      "1.2 Petrol Sigma MT",
+      "1.2 Petrol Delta MT",
+      "1.2 Petrol Delta AMT",
+      "1.2 Petrol Zeta MT",
+      "1.2 Petrol Zeta AMT",
+      "1.2 Petrol Alpha MT",
+      "1.2 Petrol Alpha AMT"
+    ],
+    "Invicto": [
+      "Zeta Plus 7 STR",
+      "Zeta Plus 8 STR",
+      "Alpha Plus 7 STR"
+    ],
+    "S-Presso": [
+      "STD",
+      "VXI+ Dream Edition",
+      "LXI MT",
+      "VXI MT",
+      "VXI+ MT",
+      "VXI (O) AGS",
+      "LXI MT CNG",
+      "VXI+ (O) AGS",
+      "VXI MT CNG"
+    ],
+    "Ciaz": [
+      "1.5L Sigma Smart Hybrid",
+      "1.5L Delta Smart Hybrid",
+      "1.5L Zeta Smart Hybrid",
+      "1.5L Delta AT Smart Hybrid",
+      "1.5L Alpha Smart Hybrid",
+      "1.5L Zeta AT Smart Hybrid",
+      "1.5L Alpha AT Smart Hybrid"      
+    ],
+    "Ertiga Tour": [
+      "STD",
+      "STD CNG"
+    ],
+    "Alto 800 tour": [
+      "H1 (O)"
+    ],
+    "Eeco Cargo": [
+      "STD",
+      "STD CNG",
+      "STD AC CNG"
+    ],
+    "Grand Vitara": [
+      "Sigma MT",
+      "Delta MT",
+      "Delta CNG MT",
+      "Delta AT",
+      "Zeta MT",
+      "Zeta CNG MT",
+      "Zeta AT",
+      "Alpha MT",
+      "Alpha AT",
+      "Alpha AWD MT",
+      "Zeta Plus Hybrid CVT",
+      "Zeta Plus Hybrid CVT DT",
+      "Alpha Plus Hybrid CVT",
+      "Alpha Plus Hybrid CVT DT"      
+    ],
+    "Super Carry": [
+      "Cab Chassis",
+      "STD",
+      "STD CNG"
+    ],
+    "Swift Dzire Tour": [
+      "S (O)",
+      "S CNG (O)"
+    ],
+    "Wagon R tour": [
+      "H3 PETROL",
+      "H3 CNG"
+    ]
+  }
+}
